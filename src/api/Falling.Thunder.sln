@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falling.Thunder.Api", "Falling.Thunder.Api\Falling.Thunder.Api.csproj", "{09840E8B-F6C4-4E2E-81CC-E4BFDD756307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falling.Thunder.Domain", "Falling.Thunder.Domain\Falling.Thunder.Domain.csproj", "{FF5D6C9E-BC73-4796-8974-8E3BC49F1801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09840E8B-F6C4-4E2E-81CC-E4BFDD756307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09840E8B-F6C4-4E2E-81CC-E4BFDD756307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09840E8B-F6C4-4E2E-81CC-E4BFDD756307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09840E8B-F6C4-4E2E-81CC-E4BFDD756307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5D6C9E-BC73-4796-8974-8E3BC49F1801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5D6C9E-BC73-4796-8974-8E3BC49F1801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5D6C9E-BC73-4796-8974-8E3BC49F1801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5D6C9E-BC73-4796-8974-8E3BC49F1801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
