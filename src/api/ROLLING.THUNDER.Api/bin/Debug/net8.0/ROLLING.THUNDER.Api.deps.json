@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ROLLING.THUNDER.Api/1.0.0": {
+        "dependencies": {
+          "ROLLING.THUNDER.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ROLLING.THUNDER.Api.dll": {}
+        }
+      },
+      "ROLLING.THUNDER.Domain/1.0.0": {
+        "runtime": {
+          "ROLLING.THUNDER.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ROLLING.THUNDER.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ROLLING.THUNDER.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
