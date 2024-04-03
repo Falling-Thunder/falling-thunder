@@ -1,11 +1,13 @@
 using Microsoft.AspNetCore.Mvc;
 using Falling.Thunder.Domain.Catalog;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Falling.Thunder.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
     public class CatalogController : ControllerBase{
+
         [HttpGet]
         public IActionResult GetItems()
         {
@@ -30,7 +32,31 @@ namespace Falling.Thunder.Api.Controllers
 
             return Ok(item);
         }
-    
+
+        [HttpPost]
+        public IActionResult CreateItem(Item item){
+            return CreatedAtAction(nameof(GetItem), new { id = 42}, item);
+        }
+
+        [HttpPost("{id:int}/ratings")]
+        public IActionResult AddRating(int id, Rating rating){
+            return Ok();
+        }
+
+        [HttpPut("{id:int}")]
+        public IActionResult UpdateItem(int id, Item item){
+            if (id != item.Id){
+                return BadRequest();
+            }
+
+            return Ok(item);   
+                
+             }
+
+        [HttpDelete("{id:int}")]
+        public IActionResult DeleteItem(int id){
+            return NoContent();
+        }    
 
     }
 }
