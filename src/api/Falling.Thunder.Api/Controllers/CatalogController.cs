@@ -23,22 +23,30 @@ namespace Falling.Thunder.Api.Controllers
 
         [HttpGet("{id:int}")]
         public IActionResult GetItem(int id){
-            var item = new Item("Item 1", "Description 1", "Brand 1", 100.00m)
-            {
-                Id = id
-            };
-
+            var item = _context.Items.Find(id);
+            if (item == null){
+                return NotFound();
+            }
             return Ok(item);
         }
 
         [HttpPost]
         public IActionResult CreateItem(Item item){
-            return CreatedAtAction(nameof(GetItem), new { id = 42}, item);
+            _context.Items.Add(item);
+            _context.SaveChanges();
+            return Created($"api/catalog/{item.Id}", item);
         }
 
         [HttpPost("{id:int}/ratings")]
         public IActionResult AddRating(int id, Rating rating){
-            return Ok();
+            var item = _context.Items.Find(id);
+            if (item == null){
+                return NotFound();
+            }
+            item.AddRating(rating);
+            _context.SaveChanges();
+
+            return Ok(item);
         }
 
         [HttpPut("{id:int}")]
@@ -60,6 +68,13 @@ namespace Falling.Thunder.Api.Controllers
 
         [HttpDelete("{id:int}")]
         public IActionResult DeleteItem(int id){
+            var item = _context.Items.Find(id);
+            if (item == null){
+                return NotFound();
+            }
+
+            _context.Items.Remove(item);
+            _context.SaveChanges();
             return NoContent();
         }    
 
