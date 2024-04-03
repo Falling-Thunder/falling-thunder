@@ -21,5 +21,16 @@ namespace Falling.Thunder.Api.Controllers
             return Ok(items);
         }
 
+        [HttpGet("{id:int}")]
+        public IActionResult GetItem(int id){
+            var item = new Item("Item 1", "Description 1", "Brand 1", 100.00m)
+            {
+                Id = id
+            };
+
+            return Ok(item);
+        }
+    
+
     }
 }

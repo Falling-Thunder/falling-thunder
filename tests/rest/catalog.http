@@ -1,1 +1,9 @@
-GET http://localhost:5169/api/catalog HTTP/1.1
+#GET http://localhost:5169/api/catalog HTTP/1.1
+
+
+
+GET http://localhost:5169/api/catalog/42 HTTP/1.1
+
+
+
+#GET http://localhost:5169/api/catalog/test HTTP/1.1
