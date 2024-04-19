@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Falling.Thunder.Domain.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c886ba05bbc6705d0544a123a15f863976af419")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6884fafc57a641daea0c8893828fea341e5c0705")]
 [assembly: System.Reflection.AssemblyProductAttribute("Falling.Thunder.Domain.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Falling.Thunder.Domain.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -110,3 +110,6 @@ C:\Users\sisso\OneDrive\Documents\GitHub\falling_thunder\falling-thunder-lab-5\f
 C:\Users\sisso\OneDrive\Documents\GitHub\falling_thunder\falling-thunder-lab-5\falling-thunder\tests\Falling.Thunder.Domain.Tests\obj\Debug\net8.0\Falling.Thunder.Domain.Tests.pdb
 C:\Users\sisso\OneDrive\Documents\GitHub\falling_thunder\falling-thunder-lab-5\falling-thunder\tests\Falling.Thunder.Domain.Tests\obj\Debug\net8.0\Falling.Thunder.Domain.Tests.genruntimeconfig.cache
 C:\Users\sisso\OneDrive\Documents\GitHub\falling_thunder\falling-thunder-lab-5\falling-thunder\tests\Falling.Thunder.Domain.Tests\obj\Debug\net8.0\ref\Falling.Thunder.Domain.Tests.dll
+C:\Users\sisso\OneDrive\Documents\GitHub\falling_thunder\falling-thunder-lab-5\falling-thunder\tests\Falling.Thunder.Domain.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Falling.Thunder.Domain.Tests
+C:\Users\sisso\OneDrive\Documents\GitHub\falling_thunder\falling-thunder-lab-5\falling-thunder\tests\Falling.Thunder.Domain.Tests\bin\Debug\net8.0\Falling.Thunder.Domain.dll
+C:\Users\sisso\OneDrive\Documents\GitHub\falling_thunder\falling-thunder-lab-5\falling-thunder\tests\Falling.Thunder.Domain.Tests\bin\Debug\net8.0\Falling.Thunder.Domain.pdb
