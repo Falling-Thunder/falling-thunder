@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falling.Thunder.Domain", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falling.Thunder.Data", "Falling.Thunder.Data\Falling.Thunder.Data.csproj", "{37E17547-3399-4DF7-994A-23419ED7D9EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falling.Thunder.Domain.Tests", "..\..\tests\Falling.Thunder.Domain.Tests\Falling.Thunder.Domain.Tests.csproj", "{3C73C920-B008-40C1-9FBA-843886751125}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{37E17547-3399-4DF7-994A-23419ED7D9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E17547-3399-4DF7-994A-23419ED7D9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E17547-3399-4DF7-994A-23419ED7D9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C73C920-B008-40C1-9FBA-843886751125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C73C920-B008-40C1-9FBA-843886751125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C73C920-B008-40C1-9FBA-843886751125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C73C920-B008-40C1-9FBA-843886751125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
