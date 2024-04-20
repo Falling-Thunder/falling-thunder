@@ -12,14 +12,16 @@
           "MSTest.TestAdapter": "3.1.1",
           "MSTest.TestFramework": "3.1.1",
           "Microsoft.NET.Test.Sdk": "17.8.0",
-          "coverlet.collector": "6.0.0",
+          "coverlet.collector": "6.0.2",
+          "coverlet.msbuild": "6.0.2",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
           "Falling.Thunder.Domain.Tests.dll": {}
         }
       },
-      "coverlet.collector/6.0.0": {},
+      "coverlet.collector/6.0.2": {},
+      "coverlet.msbuild/6.0.2": {},
       "Microsoft.CodeCoverage/17.8.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -369,12 +371,19 @@
       "serviceable": false,
       "sha512": ""
     },
-    "coverlet.collector/6.0.0": {
+    "coverlet.collector/6.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-tW3lsNS+dAEII6YGUX/VMoJjBS1QvsxqJeqLaJXub08y1FSjasFPtQ4UBUsudE9PNrzLjooClMsPtY2cZLdXpQ==",
-      "path": "coverlet.collector/6.0.0",
-      "hashPath": "coverlet.collector.6.0.0.nupkg.sha512"
+      "sha512": "sha512-bJShQ6uWRTQ100ZeyiMqcFlhP7WJ+bCuabUs885dJiBEzMsJMSFr7BOyeCw4rgvQokteGi5rKQTlkhfQPUXg2A==",
+      "path": "coverlet.collector/6.0.2",
+      "hashPath": "coverlet.collector.6.0.2.nupkg.sha512"
+    },
+    "coverlet.msbuild/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8b4jBNH7mcQy1otyQErjjIUuGD74XxKZ1wvDufbY7jhWwckl7wIa+icjwdPYeI0aYMS4Tp63LIZvyMFjWwOMDw==",
+      "path": "coverlet.msbuild/6.0.2",
+      "hashPath": "coverlet.msbuild.6.0.2.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.8.0": {
       "type": "package",

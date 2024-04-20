@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Zg8Jefsv2Hq6ikNniLIdSduhuC4pnbeGlraNa8gbX3IRK4aGMMBKYD95nhOHn25CCTWKSIjQJXWkk4Klc4I9Ww==",
+  "dgSpecHash": "SaJt5KjAbzegrv+Nx75KIbMjGr9lXVLCLpciS7kL6QEN+2QAUpc9wSSTzsOhHtOdgvCU1vdS8Bj0E6VfS/oT/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sisso\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\sisso\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\sisso\\.nuget\\packages\\coverlet.msbuild\\6.0.2\\coverlet.msbuild.6.0.2.nupkg.sha512",
     "C:\\Users\\sisso\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\sisso\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\sisso\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
