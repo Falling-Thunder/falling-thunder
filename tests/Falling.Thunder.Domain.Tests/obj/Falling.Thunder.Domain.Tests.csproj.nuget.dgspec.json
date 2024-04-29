@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj": {}
+    "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj": {
+    "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj",
         "projectName": "Falling.Thunder.Domain",
-        "projectPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj",
+        "projectPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj",
         "packagesPath": "C:\\Users\\sisso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sisso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj": {
+    "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj",
         "projectName": "Falling.Thunder.Domain.Tests",
-        "projectPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj",
+        "projectPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\sisso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\obj\\",
+        "outputPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sisso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj": {
-                "projectPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj"
+              "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj": {
+                "projectPath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\src\\api\\Falling.Thunder.Domain\\Falling.Thunder.Domain.csproj"
               }
             }
           }

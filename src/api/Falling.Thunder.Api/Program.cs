@@ -11,6 +11,16 @@ builder.Services.AddDbContext<StoreContext>(options =>
     m => m.MigrationsAssembly("Falling.Thunder.Api"));
 });
 
+builder.Services.AddCors(options =>
+{
+        options.AddDefaultPolicy(builder =>
+        {
+            builder.WithOrigins("http://localhost:5173")
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+        });
+});
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Falling Thunder API", Version = "v1"});
@@ -22,6 +32,7 @@ app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Falling Thunder API V1");
 });
+app.UseCors();
 
 app.MapControllers();
 

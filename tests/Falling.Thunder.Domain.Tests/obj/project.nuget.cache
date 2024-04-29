@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SaJt5KjAbzegrv+Nx75KIbMjGr9lXVLCLpciS7kL6QEN+2QAUpc9wSSTzsOhHtOdgvCU1vdS8Bj0E6VfS/oT/w==",
+  "dgSpecHash": "vH8nrVtQMYMHsSBYUAQ6oq0DkZM4AjWLcjPwe9USfs7FkTu9X7qwfzMduxf4YWHOc7AI10aUElwjDLXO5ApkmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-5\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\sisso\\OneDrive\\Documents\\GitHub\\falling_thunder\\falling-thunder-lab-6\\falling-thunder\\tests\\Falling.Thunder.Domain.Tests\\Falling.Thunder.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sisso\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\sisso\\.nuget\\packages\\coverlet.msbuild\\6.0.2\\coverlet.msbuild.6.0.2.nupkg.sha512",
